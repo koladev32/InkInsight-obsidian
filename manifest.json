@@ -1,0 +1,11 @@
+{
+	"id": "InkInsight-obsidian ",
+	"name": "InkInsight",
+	"version": "0.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "An assistant for writers using Obsidian",
+	"author": "Kolawole Mangabo",
+	"authorUrl": "Kolawole Mangabo",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
